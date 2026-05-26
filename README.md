@@ -2,7 +2,7 @@
 
 This project implements and compares different VAE-based methods for Out-of-Distribution (OOD) detection. The implemented methods include Likelihood, Mahalanobis Distance, Gram Matrix, and Likelihood Regret approaches.
 
-###Authors: Prateek Mehta, Nithyasri Narasimhan, Paras Jain
+### Authors: Prateek Mehta, Nithyasri Narasimhan, Paras Jain
 
 ## Project Structure
 
